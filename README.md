@@ -1,2 +1,2 @@
 # testGit
-Git test
+git hub for testing and checking repository.
